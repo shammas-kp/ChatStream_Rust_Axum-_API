@@ -2,6 +2,10 @@
 
 A **proof-of-concept (POC)** AI chatbot built with Rust that integrates with Google's Gemini API. The application supports both **HTTP server mode** and **interactive CLI mode** for seamless AI-powered conversations.
 
+<div align="center">
+  <img src="public/rust%20demo.gif" alt="Rust Chatbot Demo" width="600" />
+</div>
+
 ## ✨ Features
 
 - 🚀 **Dual Mode Operation**: Run as an HTTP server or interactive CLI
@@ -129,10 +133,6 @@ Bot: Machine learning is a subset of artificial intelligence...
 You: exit
 👋 Goodbye!
 ```
-
-## 🎬 Video Demo
-
-![Rust Chatbot Demo](public/rust%20demo.gif)
 
 ## 🏗️ Project Structure
 
