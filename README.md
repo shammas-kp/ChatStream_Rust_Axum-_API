@@ -132,29 +132,7 @@ You: exit
 
 ## 🎬 Video Demo
 
-> **Note**: To add a video demo to this README:
-> 
-> 1. **Record your demo** using screen recording software (OBS, QuickTime, etc.)
-> 2. **Upload the video** to a platform like:
->    - YouTube
->    - GitHub (add to repository as a release asset)
->    - Cloud storage (Google Drive, Dropbox, etc.)
-> 3. **Embed the video** using one of these methods:
-
-### Option 1: Video Link (YouTube)
-```markdown
-[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-### Option 2: GIF Recording
-```markdown
-![Demo](path/to/demo.gif)
-```
-
-### Option 3: Direct Video File (GitHub)
-```markdown
-https://user-images.githubusercontent.com/YOUR_USERNAME/video.mp4
-```
+![Rust Chatbot Demo](public/rust%20demo.gif)
 
 ## 🏗️ Project Structure
 
